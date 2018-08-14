@@ -1,0 +1,21 @@
+{
+  "name": "wopi.client",
+  "version": "1.0.0",
+  "description": "a client for wopi",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chsword/wopi.client.git"
+  },
+  "keywords": [
+    "wopi",
+    "client",
+    "url"
+  ],
+  "author": "zoujian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chsword/wopi.client/issues"
+  },
+  "homepage": "https://github.com/chsword/wopi.client#readme"
+}
